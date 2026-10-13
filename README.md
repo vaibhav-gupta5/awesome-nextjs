@@ -123,6 +123,7 @@
 - [Next View Transitions](https://github.com/shuding/next-view-transitions) - Use CSS View Transitions API in Next.js App Router.
 - [Destack](https://github.com/LiveDuo/destack) - Page builder for Next.js. Zero-config deployment.
 - [Form Builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
+- [Payload Components](https://github.com/Ducksss/payload-components) - CLI and registry for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 - [Next On Pages](https://github.com/cloudflare/next-on-pages) - CLI to build and develop Next.js apps for Cloudflare Pages.
 - [Stepperize](https://github.com/damianricobelli/stepperize) - A library for creating step-by-step workflows in your apps.
 - [Onborda](https://github.com/uixmat/onborda) - An onboarding wizard flow / product tour for Next.js animated by framer motion
